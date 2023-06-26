@@ -1,0 +1,256 @@
+.main{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('./images/logo.jpg');
+ 
+  background-size: cover; 
+}
+.sub-main{
+  display: flex;
+  justify-content: center;
+  height: 450px;
+  width: 30%;
+  box-shadow: 11px 12px 13px 12px rgb(207,207,207);
+  padding-top: 30px;
+  border-radius: 90px;
+  background-color:white;
+  background-size: fixed;
+  
+}
+input{
+  border-radius: 5px;
+}
+button{
+  border-radius: 15px;
+}
+.e{
+  background-image: url('./images/si.jpg');
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  
+} 
+.f{
+  display: flex;
+  justify-content: center;
+  height: 450px;
+  width: 30%;
+  background-size: fixed;
+  padding-top: 150px;
+  border-radius: 90px;
+  
+}
+.a{
+  background-image: url('./images/contact.jpg');
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover; 
+}
+.b{
+  display: flex;
+  justify-content: center;
+  height: 450px;
+  width: 30%;
+  color: white;
+  padding-top: 150px;
+  border-radius: 90px;
+  
+
+}
+.ad{
+    height: 40px;
+    width: 100%;
+    background-image: url('./images/i.jpg');
+    display: flex;
+    padding-bottom: 23px;
+    justify-content: space-between;
+    background-attachment: fixed;
+    
+}
+.da{
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+  height: 100px;
+  margin-right: 10px;
+  
+}
+.list-item {
+  width: 80px;
+  padding: 20px;
+  
+}
+.g{
+  height: 40px;
+    width: 100%;
+    background-image: url('./images/sa.jpg');
+    background-size: cover;
+    display: flex;
+    padding-bottom: 23px;
+    justify-content: space-between;
+    
+    border-color:red;
+}
+.x{
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+  height: 100px;
+  margin-right: 10px;
+  padding-top: 15px;
+}
+.m{
+  width: 80px;
+  padding: 10px;
+  display: flex;
+  float: left;
+}
+.q{
+  height: 40px;
+    width: 100%;
+    background-color:bisque;
+    display: flex;
+    padding-bottom: 23px;
+    justify-content: space-between;
+}
+.r{
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+  height: 100px;
+  margin-right: 10px;
+  padding-top: 15px;
+}
+.w{
+  width: 80px;
+  padding: 10px;
+  display: flex;
+  float: left;
+}
+.s{
+  background-image: url('./images/la.jpg');
+  background-size: cover;
+  border-color: black;
+  text-align:left;
+  margin: 0;
+}
+.o{
+  height: 40px;
+  width: 100%;
+  background-color: bisque;
+  background-size: cover;
+  display: flex;
+  padding-bottom: 23px;
+  justify-content: space-between;
+}
+.p{
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+  height: 100px;
+  margin-right: 10px;
+  padding-top: 15px;
+}
+.y{
+  width: 90px;
+  padding: 10px;
+  display: flex;
+  float: left;
+
+}
+.z{
+  background-color: antiquewhite;
+  width: 100%;
+  height: 40px;
+  padding-top: 25px;
+  text-align: center;
+}
+.h{
+  background-image: url('./images/opo.jpg');
+  text-align:left;
+  background-size: cover;
+  margin: 0;
+}
+.log{
+  max-width: 60px;
+  max-height: 80px;
+  padding-top: 25px;
+}
+.ras{
+  max-width: 60px;
+  max-height: 80px;
+  padding-bottom: 25px;
+}
+ .gang{
+  background-image:url('./images/bac.jpg');
+  width: 250px;
+  height: 100%;
+ }
+ .front{
+  height: 500px;
+  width: 100%;
+  border-radius: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('./images/f.jpg');
+  background-size: cover; 
+ }
+ *{
+  margin: 0;
+ }
+ .hi{
+  background-image:url('./images/su.jpg');
+  background-size: cover;
+  height: 500px;
+  width: 100px;
+  border-radius: 30px;
+  padding-right: 900px;
+ }
+ .ga{
+  width: 250px;
+  height: 100%;
+  padding-left: 0px;
+  background-image: url('./images/in.jpg');
+ }
+ .gan{
+  width: 250px;
+  height: 100%;
+  background-image:url('./images/gan.jpg') ;
+  background-repeat: repeat-y;
+ }
+ .gani{
+  width: 250px;
+  height: 100%;
+  background-image: url('./images/sid.jpg');
+ }
+ .ganr{
+  width: 250px;
+  height: 100%;
+  background-image: url('./images/side.jpg');
+ }
+ .ganger{
+  width: 250px;
+  height: 100%;
+  background-image: url('./images/gani.jpg');
+  background-repeat: repeat-y;
+ }
+ .ganu{
+  width: 200px;
+  height: 100%;
+  background-image: url('./images/ja.jpg');
+  
+ }
+ .zx{
+  background-image: url('./images/za.jpg');
+  background-size: cover;
+ }
